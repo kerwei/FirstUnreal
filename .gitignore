@@ -1,0 +1,11 @@
+# VS files
+.vs/*
+
+# Project files
+Binaries/*
+Config/*
+Content/*
+!Content/Chapter*
+*Cache*
+Intermediate/*
+Saved/*
